@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
-</p>
-
+[
+](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fmicrosoft-azure&psig=AOvVaw11YGxoOzOujF9VBJb_6c84&ust=1694217633761000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLj82dPamYEDFQAAAAAdAAAAABAg)
 <h1>(Azure)</h1>
 This tutorial outlines the implementation of creating a resource in Azure.<br />
 
