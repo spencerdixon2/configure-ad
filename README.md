@@ -27,7 +27,7 @@ This tutorial outlines the implementation of creating a resource in Azure.<br />
 
 
 
-Go to the home page of Microsoft Azure and select "Resource Groups"
-Select "Create resource group"
-Fill in the required fields and select "Review + Create"
+Go to the home page of Microsoft Azure and select "Resource Groups."
+Select "Create resource group."
+Fill in the required fields and select "Review + Create."
 Then select "Create" on the next page.
