@@ -1,6 +1,5 @@
 <p align="center">
-[
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fmicrosoft-azure&psig=AOvVaw11YGxoOzOujF9VBJb_6c84&ust=1694217633761000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLj82dPamYEDFQAAAAAdAAAAABAg)
+![BlogPreview_default-blue](https://github.com/spencerdixon2/configure-ad/assets/143224941/bd4e68ba-354a-4961-8744-f3b76bceb203)
 <h1>(Azure)</h1>
 This tutorial outlines the implementation of creating a resource in Azure.<br />
 
