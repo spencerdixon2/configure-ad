@@ -1,5 +1,5 @@
 <p align="center">
-![BlogPreview_default-blue](https://github.com/spencerdixon2/configure-ad/assets/143224941/bd4e68ba-354a-4961-8744-f3b76bceb203)
+<img width="600" alt="Screen Shot 2023-09-07 at 7 04 28 PM" src="https://github.com/spencerdixon2/configure-ad/assets/143224941/fd024bf6-e005-4e6e-b0a9-82dd43ac2407">
 <h1>(Azure)</h1>
 This tutorial outlines the implementation of creating a resource in Azure.<br />
 
